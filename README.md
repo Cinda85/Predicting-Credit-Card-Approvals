@@ -7,4 +7,3 @@ Splitting data into 2 sets, for model training and it's testing.
 Initializing and fitting logistic regression model and it's precision evaluation using confusion matrix.
 Hyperparameter tuning.
 
-![](https://github.com/Cinda85/Predicting-Credit-Card-Approvals/blob/main/Images/credit_card_small.jpg)
